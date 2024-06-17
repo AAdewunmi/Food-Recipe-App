@@ -1,10 +1,10 @@
 # $$\textcolor{red}{\text{UNDER CONSTRUCTION}}$$
 
-Project Name:
+# Project Name:
 
 "Foodily" - A Food Recipes Application
 
-Tech Stack:
+## Tech Stack:
 
 - HTML
 - CSS
